@@ -1,0 +1,6 @@
+/src/__pycache__/
+/src/fetchers/__pycache__/
+/src/output/
+/src/services/__pycache__/
+.env
+/spec/
